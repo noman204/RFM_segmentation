@@ -1,3 +1,4 @@
+#RFM Segmentation: Analyzing Sales Data for Customer Insights
 I recently utilized SQL to analyze a sales dataset, unveiling key insights:
 
 1️⃣ Sales Overview: Examined total revenue per year and detected trends in product lines.
